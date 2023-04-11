@@ -1,0 +1,15 @@
+.Lowerheader{
+    background-color:rgb(35,47,62);
+    color: white;
+    position: sticky;
+}
+.lowerheader_list{
+    list-style: none;
+    display: flex;
+    
+}
+.lowerheader_list > li{
+    
+    margin-right: 5px;
+    padding: 5px;
+}
